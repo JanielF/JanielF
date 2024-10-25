@@ -5,7 +5,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JanielF&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JanielF&theme=algolia" alt="JanielF"  /></p>
 
 
 ## 🛠️ My Skills
